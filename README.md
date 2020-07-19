@@ -1,4 +1,4 @@
-# Contador-De-Objetos :eyes:
+# Contador De Objetos :eyes:
 
 ## Objetivo :dart:
 Mediante el uso del lenguaje de programacion Python y bibliotecas externas, como son OpenCV y NumPy. Se busca procesar una imagen y realizar el conteo de objetos que aparecen en dicha imagen
@@ -14,9 +14,9 @@ Para poder correr el programa se requiere previamente:
 ```
 iniciarConteo(maskConjunto)
 ```
-<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/totalidad.PNG"/>
-<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/totalidad.PNG"/>
-<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/totalidad.PNG"/>
+<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Contador-De-Objetos/blob/master/screenShotsReadMe/contadorN1.PNG"/>
+<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/contadorN4.PNG"/>
+<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/contadorN6.PNG"/>
 
 
 
