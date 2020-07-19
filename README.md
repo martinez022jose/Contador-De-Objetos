@@ -11,7 +11,7 @@ Para poder correr el programa se requiere previamente:
 
 ## Ejecutando las pruebas :memo:
 > Iniciamos conteo de objetos de la imagen. Cabe aclarar que sigue contando siempre y cuando el objeto detectado respete los limites de rango de colores definidos
-```
+```python
 iniciarConteo(maskConjunto)
 ```
 <img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Contador-De-Objetos/blob/master/screenShotsReadMe/contadorN1.PNG"/>
