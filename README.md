@@ -16,11 +16,9 @@ iniciarConteo(maskConjunto)
 ```
 <img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Contador-De-Objetos/blob/master/screenShotsReadMe/contadorN1.PNG"/>
 
-<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/contadorN4.PNG"/>
+<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Contador-De-Objetos/blob/master/screenShotsReadMe/contadorN4.PNG"/>
 
-<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Detector-De-Colores/blob/master/screenShotsReadMe/contadorN6.PNG"/>
-
-
+<img height="300px" width="600px" scale="50%" src="https://github.com/martinez022jose/Contador-De-Objetos/blob/master/screenShotsReadMe/contadorN6.PNG"/>
 
 ## Autor/Autores :pushpin:
 * **Jose Martinez Gutierrez**
